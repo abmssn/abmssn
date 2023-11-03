@@ -1,16 +1,26 @@
-### Hi there 👋
+# abmssn - Full Stack Web Developer & Emoji Addict 🚀
 
-<!--
-**abmssn/abmssn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! 👋 I'm **abmssn**, a passionate full-stack web developer with expertise in **React**, **Next.js**, **Node.js**, **JavaScript**, and **TypeScript** ✨
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** React.js 💙, Next.js ⚛️
+- **Backend:** Node.js 💚
+- **Languages:** JavaScript 🟨, TypeScript 🔷
+- **Others:** Git 🌟, GitHub 🐙
+
+## 🌐 About Me
+
+I'm a developer who believes that a sprinkle of emojis makes everything better! From my commit messages to my code comments, you'll find a delightful array of emojis brightening up the codebase. 😊
+
+## 📈 GitHub Stats
+
+[![abmssn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abmssn&show_icons=true&theme=radical)](https://github.com/abmssn)
+
+## 📫 Let's Connect
+
+Feel free to reach out and connect with me:
+
+- [Email](mailto:abmssn@outlook.com) 💌
+
+Thank you for stopping by! 🎉
